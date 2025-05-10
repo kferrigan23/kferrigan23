@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name's Kelly.
+### My name's Kelly.
 
 Here's some info about me:
 
